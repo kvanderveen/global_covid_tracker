@@ -8,7 +8,7 @@ An example of the deployed application can be found
 [here](https://global-covid-tracker.herokuapp.com). Shout out to 
 the creators of [Streamlit](https://docs.streamlit.io) 
 for making it easy to build a web application for data 
-science.
+science. 
 
 
 ### Quick start

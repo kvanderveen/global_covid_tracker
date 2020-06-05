@@ -13,7 +13,8 @@ class IntroductionContent:
         f'been documented. The tables and plots on this site were generated '
         f'from data made publicly [available]'
         f'(https://github.com/owid/covid-19-data/tree/master/public/data) by '
-        f'Our World in Data.'
+        f'Our World in Data. The code repository to build this site can be '
+        f'found [here](https://github.com/kvanderveen/global_covid_tracker)'
     )
     opening_content2 = (
         f'To navigate this site, select one of the radio buttons on the '
