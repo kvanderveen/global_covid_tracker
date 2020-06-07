@@ -13,8 +13,7 @@ science.
 
 ### Quick start
 
-* Clone the repo: ```git clone https://github.com/kvanderveen
-/global_covid_tracker.git```
+* Clone the repo: ```git clone https://github.com/kvanderveen/global_covid_tracker.git```
 * cd into the directory: ```cd global_covid_tracker/```
 * Install the requirements: ```pip install -r requirements.txt```
 * Run the application: ```streamlit run app.py```
